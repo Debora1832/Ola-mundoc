@@ -1,2 +1,2 @@
-# Ola-mundoc
+# Ola-mundo
 Meu primeiro repositório no GitHub
